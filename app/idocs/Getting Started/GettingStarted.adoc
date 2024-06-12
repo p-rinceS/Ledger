@@ -1,0 +1,25 @@
+= Getting Started
+This is a quick introduction to my project and how I am planning to implement it.
+
+
+## Project Overview
+I am planning to create a web application that will allow users to track the games they are playing and rate/review the games they have played. The app will allow users to search for games and add them to their "ledger" where they can rate and review the game. The app will also allow users to see what games their friends have played and their rating for the game.
+
+
+## Who am I?
+I am a student at the University of Illinois Chicago studying Computer Science. I am interested in full-stack development. I am excited to learn more about web development and create a project that I am passionate about -- hence the game tracker. 
+
+## Functionality
+
+The app will allow users to:
+
+* Create an account
+* Log in ( via steam or google)
+* Search for games
+* Add games to their ledger
+* Rate and review games
+* Have a friends list
+** View their friends' ledgers
+* View their own ledger
+
+
