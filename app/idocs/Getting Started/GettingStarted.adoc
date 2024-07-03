@@ -25,3 +25,11 @@ The app will allow users to:
 * View their own ledger
 
 
+
+## Design System
+
+Ant Design will be used for the design system. I have not used Ant Design before, but it looked good and trusted, so I am excited to learn more about it and use it in my project.
+
+Here are the docs:
+
+https://ant.design/components/overview/

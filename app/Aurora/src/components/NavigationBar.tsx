@@ -12,13 +12,19 @@ const gameOptions = [
   {
     value: "Ghost of Tsushima",
     label: (
-<div style={{justifyContent: "space-between", display: "flex", alignItems: "center" }}>
-  <img
-    src="./assets/ghost-of-tsushima.jpg"
-    style={{width: "50px", height: "75px"}}
-  />
-  <span style={{ marginLeft: "10px" }}>Ghost of Tsushima</span>
-</div>
+      <div
+        style={{
+          justifyContent: "space-between",
+          display: "flex",
+          alignItems: "center",
+        }}
+      >
+        <img
+          src="./assets/ghost-of-tsushima.jpg"
+          style={{ width: "50px", height: "75px" }}
+        />
+        <span style={{ marginLeft: "10px" }}>Ghost of Tsushima</span>
+      </div>
     ),
   },
   { value: "God of War" },
@@ -30,7 +36,6 @@ const gameOptions = [
   { value: "Returnal" },
   { value: "Ratchet & Clank: Rift Apart" },
   { value: "Death Stranding" },
-
 ];
 
 const NavigationBar: FC = () => {

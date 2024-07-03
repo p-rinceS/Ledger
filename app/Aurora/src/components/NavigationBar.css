@@ -1,24 +1,20 @@
-.nav-bar{
-    color: white;
-    padding-right: 25px;
-    padding-left: 25px;
-    display: flex;
-    height: auto;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    background-color: #424549;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    align-items: center;
-    
+.nav-bar {
+  color: white;
+  padding-right: 25px;
+  padding-left: 25px;
+  display: flex;
+  height: auto;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color: #424549;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  align-items: center;
 }
 
-
-.ledger-icon{
-    width: 6rem; /* Adjust based on your logo's size */
-    filter: invert(100%);
-    float: left;
-    padding: 5px;
+.ledger-icon {
+  width: 6rem; /* Adjust based on your logo's size */
+  filter: invert(100%);
+  float: left;
+  padding: 5px;
 }
-
-
