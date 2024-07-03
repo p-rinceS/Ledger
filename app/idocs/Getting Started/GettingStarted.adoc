@@ -6,15 +6,17 @@ This is a quick introduction to my project and how I am planning to implement it
 I am planning to create a web application that will allow users to track the games they are playing and rate/review the games they have played. The app will allow users to search for games and add them to their "ledger" where they can rate and review the game. The app will also allow users to see what games their friends have played and their rating for the game.
 
 
-## Who am I?
+## Who are we?
 I am a student at the University of Illinois Chicago studying Computer Science. I am interested in full-stack development. I am excited to learn more about web development and create a project that I am passionate about -- hence the game tracker. 
+
+The app will have access to as many games as possible, I am planning to use the IGDB API to get the games. The app will also have a social aspect to it, where users can add friends and see what games they have played and their rating for the game. Maybe even a way to track how long they have played the game for if I utilize the steam API.
 
 ## Functionality
 
 The app will allow users to:
 
 * Create an account
-* Log in ( via steam or google)
+* Log in (via steam or google)
 * Search for games
 * Add games to their ledger
 * Rate and review games
