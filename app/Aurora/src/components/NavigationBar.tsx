@@ -48,7 +48,7 @@ const NavigationBar: FC = () => {
           <img src="./assets/ledger-text-black.svg" className="ledger-icon" />
         </Link>
         <AutoComplete
-          variant="filled"
+          variant="outlined"
           options={options}
           style={{ width: 400 }}
           onSearch={(text) =>
