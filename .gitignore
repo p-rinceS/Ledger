@@ -1,1 +1,2 @@
-app/Aegis/app/src/main/java/Client_Secret.java
+app/Aegis/app/src/main/java/org/example/secrets/client_secret.java
+app/Aegis/app/src/main/java/org/example/secrets/client_bearer_access_token.java
