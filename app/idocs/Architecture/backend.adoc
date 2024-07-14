@@ -1,0 +1,21 @@
+
+
+
+# Backend Architecture
+
+
+The backend architecture of Ledger will consist of the following:
+
+
+
+1. We will be fetching the data from IGDB Api in Java and storing it in a MySQL database.
+
+2. We will be using Spring Boot to create a RESTful API to fetch the data from the database. Or maybe GraphQL... haven't decided.
+
+3. We will be using Spring Security to authenticate the users.
+(no authentication yet.)
+
+4. We will be creating a frontend in React to display the data fetched from the Database.
+
+5. We will be using Docker to containerize the application.
+
